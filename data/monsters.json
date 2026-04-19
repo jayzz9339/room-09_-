@@ -2,36 +2,46 @@
   "glitch": {
     "name": "오류",
     "hp": 40,
-    "attack": 5,
-    "exp": 10,
-    "gold": 5
+    "atk": 5,
+    "def": 0,
+    "coin_reward": 5,
+    "xp_reward": 10,
+    "drops": []
   },
   "whisper": {
     "name": "속삭임",
     "hp": 35,
-    "attack": 6,
-    "exp": 12,
-    "gold": 6
+    "atk": 6,
+    "def": 0,
+    "coin_reward": 6,
+    "xp_reward": 12,
+    "drops": []
   },
   "static": {
     "name": "정적",
     "hp": 30,
-    "attack": 4,
-    "exp": 8,
-    "gold": 4
+    "atk": 4,
+    "def": 0,
+    "coin_reward": 4,
+    "xp_reward": 8,
+    "drops": []
   },
   "unknown_shadow": {
     "name": "미확인 그림자",
     "hp": 45,
-    "attack": 7,
-    "exp": 15,
-    "gold": 7
+    "atk": 7,
+    "def": 1,
+    "coin_reward": 7,
+    "xp_reward": 15,
+    "drops": []
   },
   "broken_presence": {
     "name": "붕괴된 존재",
     "hp": 50,
-    "attack": 8,
-    "exp": 18,
-    "gold": 9
+    "atk": 8,
+    "def": 1,
+    "coin_reward": 9,
+    "xp_reward": 18,
+    "drops": []
   }
 }
