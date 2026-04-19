@@ -1,1 +1,14 @@
-{}
+{
+  "error_detected": {
+    "name": "오류 감지자",
+    "description": "ROOM 00에 진입했다"
+  },
+  "first_contact": {
+    "name": "첫 접촉",
+    "description": "첫 몬스터를 처치했다"
+  },
+  "unstable_survivor": {
+    "name": "불안정한 생존자",
+    "description": "ROOM 00을 살아남았다"
+  }
+}
