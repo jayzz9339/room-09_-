@@ -1,0 +1,53 @@
+{
+  "knife": {
+    "name": "낡은 칼",
+    "type": "weapon",
+    "atk": 3
+  },
+  "pipe": {
+    "name": "파이프",
+    "type": "weapon",
+    "atk": 5
+  },
+  "bat": {
+    "name": "야구방망이",
+    "type": "weapon",
+    "atk": 6
+  },
+  "taser": {
+    "name": "전기 충격기",
+    "type": "weapon",
+    "atk": 7
+  },
+  "short_blade": {
+    "name": "단검",
+    "type": "weapon",
+    "atk": 8
+  },
+
+  "old_clothes": {
+    "name": "낡은 옷",
+    "type": "armor",
+    "def": 2
+  },
+  "jacket": {
+    "name": "자켓",
+    "type": "armor",
+    "def": 3
+  },
+  "hood": {
+    "name": "후드",
+    "type": "armor",
+    "def": 4
+  },
+  "vest": {
+    "name": "조끼",
+    "type": "armor",
+    "def": 5
+  },
+  "light_armor": {
+    "name": "경량 방어구",
+    "type": "armor",
+    "def": 6
+  }
+}
