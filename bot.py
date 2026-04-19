@@ -25,7 +25,6 @@ class Room09Bot(commands.Bot):
             "cogs.admin",
             "cogs.rpg",
             "cogs.panels",
-            "cogs.ai_stub",
             "cogs.tickets",
         ]
         for cog in cogs:
