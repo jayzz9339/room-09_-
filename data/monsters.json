@@ -1,37 +1,37 @@
 {
-  "slime": {
-    "name": "슬라임",
+  "glitch": {
+    "name": "오류",
     "hp": 40,
-    "atk": 6,
-    "def": 1,
-    "coin_reward": 20,
-    "xp_reward": 25,
-    "drops": [
-      "medkit"
-    ]
+    "attack": 5,
+    "exp": 10,
+    "gold": 5
   },
-  "hound": {
-    "name": "실험체 사냥개",
-    "hp": 70,
-    "atk": 10,
-    "def": 2,
-    "coin_reward": 35,
-    "xp_reward": 45,
-    "drops": [
-      "blade",
-      "boots"
-    ]
+  "whisper": {
+    "name": "속삭임",
+    "hp": 35,
+    "attack": 6,
+    "exp": 12,
+    "gold": 6
   },
-  "watcher": {
-    "name": "감시자",
-    "hp": 95,
-    "atk": 12,
-    "def": 4,
-    "coin_reward": 50,
-    "xp_reward": 60,
-    "drops": [
-      "manual",
-      "shield"
-    ]
+  "static": {
+    "name": "정적",
+    "hp": 30,
+    "attack": 4,
+    "exp": 8,
+    "gold": 4
+  },
+  "unknown_shadow": {
+    "name": "미확인 그림자",
+    "hp": 45,
+    "attack": 7,
+    "exp": 15,
+    "gold": 7
+  },
+  "broken_presence": {
+    "name": "붕괴된 존재",
+    "hp": 50,
+    "attack": 8,
+    "exp": 18,
+    "gold": 9
   }
 }
