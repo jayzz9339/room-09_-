@@ -1,0 +1,48 @@
+{
+  "chapter": 1,
+  "scene": "당신들은 ROOM 09에서 눈을 떴다.",
+  "shop": {
+    "medkit": {
+      "name": "구급상자",
+      "price": 50,
+      "effect": "heal",
+      "amount": 20,
+      "rarity": "common"
+    },
+    "blade": {
+      "name": "날붙이",
+      "price": 80,
+      "effect": "atk",
+      "amount": 2,
+      "rarity": "common"
+    },
+    "boots": {
+      "name": "신발",
+      "price": 80,
+      "effect": "agi",
+      "amount": 2,
+      "rarity": "common"
+    },
+    "manual": {
+      "name": "매뉴얼",
+      "price": 80,
+      "effect": "int",
+      "amount": 2,
+      "rarity": "common"
+    },
+    "shield": {
+      "name": "보강 방패",
+      "price": 120,
+      "effect": "def",
+      "amount": 2,
+      "rarity": "rare"
+    },
+    "revive": {
+      "name": "응급 제세동기",
+      "price": 200,
+      "effect": "revive",
+      "amount": 40,
+      "rarity": "epic"
+    }
+  }
+}

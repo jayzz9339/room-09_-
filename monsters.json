@@ -1,0 +1,37 @@
+{
+  "slime": {
+    "name": "슬라임",
+    "hp": 40,
+    "atk": 6,
+    "def": 1,
+    "coin_reward": 20,
+    "xp_reward": 25,
+    "drops": [
+      "medkit"
+    ]
+  },
+  "hound": {
+    "name": "실험체 사냥개",
+    "hp": 70,
+    "atk": 10,
+    "def": 2,
+    "coin_reward": 35,
+    "xp_reward": 45,
+    "drops": [
+      "blade",
+      "boots"
+    ]
+  },
+  "watcher": {
+    "name": "감시자",
+    "hp": 95,
+    "atk": 12,
+    "def": 4,
+    "coin_reward": 50,
+    "xp_reward": 60,
+    "drops": [
+      "manual",
+      "shield"
+    ]
+  }
+}
