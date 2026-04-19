@@ -1,14 +1,18 @@
 {
-  "error_detected": {
-    "name": "오류 감지자",
-    "description": "ROOM 00에 진입했다"
+  "boss_first_hit": {
+    "name": "첫 대면",
+    "description": "보스를 처음 공격했다",
+    "condition_type": "boss_hits",
+    "target": 1,
+    "coin_reward": 30,
+    "xp_reward": 20
   },
-  "first_contact": {
-    "name": "첫 접촉",
-    "description": "첫 몬스터를 처치했다"
-  },
-  "unstable_survivor": {
-    "name": "불안정한 생존자",
-    "description": "ROOM 00을 살아남았다"
+  "first_hunt": {
+    "name": "첫 사냥",
+    "description": "몬스터를 1회 처치했다",
+    "condition_type": "kills",
+    "target": 1,
+    "coin_reward": 20,
+    "xp_reward": 15
   }
 }
