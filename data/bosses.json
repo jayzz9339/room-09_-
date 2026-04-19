@@ -1,30 +1,11 @@
 {
-  "alpha": {
-    "name": "ALPHA-09",
-    "max_hp": 800,
-    "hp": 800,
-    "atk": 20,
-    "def": 6,
-    "alive": true,
-    "participants": {},
-    "image_prompt": "dark sci-fi biomechanical boss with glowing red core, cinematic game art",
-    "pattern_index": 0,
-    "patterns": [
-      {
-        "name": "충격파",
-        "bonus_atk": 0,
-        "text": "보스가 거대한 충격파를 방출했다."
-      },
-      {
-        "name": "광선 난사",
-        "bonus_atk": 4,
-        "text": "보스의 광선이 공간을 찢는다."
-      },
-      {
-        "name": "분노",
-        "bonus_atk": 8,
-        "text": "보스가 분노 상태에 돌입했다."
-      }
-    ]
+  "observer": {
+    "name": "관찰자",
+    "hp": 300,
+    "atk": 15,
+    "def": 2,
+    "coin_reward": 50,
+    "xp_reward": 100,
+    "drops": []
   }
 }
