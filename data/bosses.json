@@ -1,11 +1,30 @@
 {
   "observer": {
     "name": "관찰자",
+    "max_hp": 300,
     "hp": 300,
     "atk": 15,
     "def": 2,
-    "coin_reward": 50,
-    "xp_reward": 100,
-    "drops": []
+    "alive": true,
+    "participants": {},
+    "image_prompt": "mysterious observer entity, modern fantasy, dark atmosphere",
+    "pattern_index": 0,
+    "patterns": [
+      {
+        "name": "응시",
+        "bonus_atk": 0,
+        "text": "관찰자가 말없이 시선을 고정한다."
+      },
+      {
+        "name": "왜곡",
+        "bonus_atk": 3,
+        "text": "주변 공간이 뒤틀리며 압박감이 밀려온다."
+      },
+      {
+        "name": "침묵",
+        "bonus_atk": 5,
+        "text": "소리가 사라지고, 관찰자의 존재만이 남는다."
+      }
+    ]
   }
 }
