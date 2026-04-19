@@ -1,0 +1,36 @@
+{
+  "templates": [
+    {
+      "code": "chat_10",
+      "name": "대화 10회",
+      "type": "messages",
+      "target": 10,
+      "coin": 50,
+      "xp": 40
+    },
+    {
+      "code": "kill_1",
+      "name": "몬스터 1회 처치",
+      "type": "kills",
+      "target": 1,
+      "coin": 60,
+      "xp": 50
+    },
+    {
+      "code": "action_3",
+      "name": "행동 3회",
+      "type": "actions",
+      "target": 3,
+      "coin": 55,
+      "xp": 45
+    },
+    {
+      "code": "boss_hit_3",
+      "name": "보스 3회 타격",
+      "type": "boss_hits",
+      "target": 3,
+      "coin": 80,
+      "xp": 70
+    }
+  ]
+}
